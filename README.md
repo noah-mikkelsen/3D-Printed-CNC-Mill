@@ -5,22 +5,35 @@ This project was undertaken as a challenge to improve skills in mechanical desig
 The mill was designed for machining metal, wood and acrylic in 3 dimensions using a 1.5kW spindle. These documents highlight its design, assembly and manufacture.
 
 # Photos
-2 Views:
+Isometric Views:
 ![Isometric View](Images/Image_1.png)
 
 ![Isometric View](Images/Image_2.png)
 
-A Rendered View:
+Rendered View:
 
 ![Isometric View](Images/Render_1.png)
 
 # Parts
 To Order:
-* Aluminium Profiles (
+* Aluminium Profiles (20mmx20mm)
+* Smooth, steel rod (12mm diameter)
+* Threaded steel rod
+* 608 bearings
+* Linear bearings
+* Stepper motor
+* M3, M6 bolts and T nuts
+* 1.5KW spindle motor
 
 
 3D Printed (see STL files):
-* 
+* Frame supports (8)
+* X-Carriage (2)
+* Y-Carriage
+* Z-Carriage
+* Couplers (4)
+* Motor holder (2)
+* Rod Holder (2)
 
 
 # Future Steps
