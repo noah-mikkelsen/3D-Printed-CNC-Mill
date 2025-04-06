@@ -5,8 +5,18 @@ This project was undertaken as a challenge to improve skills in mechanical desig
 The mill was designed for machining metal, wood and acrylic in 3 dimensions using a 1.5kW spindle. These documents highlight its design, assembly and manufacture.
 
 # Photos
+2 Views:
+![Isometric View](Images/Image_1.png)
 
+![Isometric View](Images/Image_2.png)
 
+A Rendered View:
+
+![Isometric View](Images/Render_1.png)
+
+A GIF illustrating joint movement:
+
+![Isometric View](Images/Joint_Movement.gif)
 
 
 # Parts
