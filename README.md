@@ -21,19 +21,23 @@ To Order:
 * Threaded steel rod
 * 608 bearings
 * Linear bearings
-* Stepper motor
+* Stepper motors
 * M3, M6 bolts and T nuts
 * 1.5KW spindle motor
 
 
 3D Printed (see STL files):
 * Frame supports (8)
-* X-Carriage (2)
+* X-Carriage left
+* X-Carriage right
 * Y-Carriage
 * Z-Carriage
 * Couplers (4)
-* Motor holder (2)
-* Rod Holder (2)
+* Motor holder left
+* Motor holder right
+* Rod holder left
+* Rod holder right
+* 
 
 
 # Future Steps
