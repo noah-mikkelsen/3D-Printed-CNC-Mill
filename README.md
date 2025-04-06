@@ -14,11 +14,6 @@ A Rendered View:
 
 ![Isometric View](Images/Render_1.png)
 
-A GIF illustrating joint movement:
-
-![Isometric View](Images/Joint_Movement.gif)
-
-
 # Parts
 To Order:
 * Aluminium Profiles (
