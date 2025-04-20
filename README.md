@@ -17,31 +17,38 @@ Rendered View:
 # Parts
 To Order:
 * Aluminium Profiles (20mmx20mm)
-* Smooth, steel rod (12mm diameter)
-* Threaded steel rod
+  * 2x600mm, 2x300mm
+* Smooth, steel rods (12mm diameter)
+  * 2x550mm, 2x350mm, 2x175mm
+* Threaded steel rods
+  * 2x500mm, 1x270mm, 1x149mm
 * 608 bearings
-* Linear bearings
+  * 4x
+* Linear bearings (LM12UU)
+  * 12x
 * Stepper motors
-* M3, M6 bolts and T nuts
-* 1.5KW spindle motor
+  * 4x
+* Bolts
+* 28xM3, 2xM6, 8xT-nuts 
+* Spindle motor (Vevor air-cooled, 1.5kW)
 
 
 3D Printed (see STL files):
-* Frame supports (8)
+* Frame supports
+  * 8x
 * X-Carriage left
 * X-Carriage right
 * Y-Carriage
 * Z-Carriage
-* Couplers (4)
+* Couplers
+  * 4x
 * Motor holder left
 * Motor holder right
 * Rod holder left
 * Rod holder right
-* 
 
 
 # Future Steps
-* Brisbane City Council 3D printing induction (12/04/2025)
 * Print/Order components
 * Assemble Frame
 * Electronics Assembly
